@@ -188,6 +188,57 @@ Thank you for watching, and I will see you in the next one.
 
 
 ==================================================
+DESCRIÇÃO DO VÍDEO (copiar para o YouTube)
+==================================================
+
+Archaeologists and Divers Explored Giza's Flooded Osiris Shaft — Revealing UNSETTLING Evidence
+
+Beneath the causeway of Khafre's pyramid, a shaft drops nearly 100 feet (about 30 m) into the Giza bedrock, ending in a flooded chamber with a stone island and a granite sarcophagus. What did archaeologists record there, what can divers actually see, and which claims have no evidence behind them? This video separates what is documented from what is guessed, and from what is fiction. It does not claim any secret city, hidden discovery or lost technology.
+
+CHAPTERS
+0:00 The hole beneath Giza
+0:55 Before we go down
+1:20 Where the shaft sits
+3:00 Selim Hassan and the unfinished dig
+4:45 Hawass returns
+6:30 Why it is called the Tomb of Osiris
+8:15 The water problem
+10:00 Into the water: what divers can see
+12:00 What the shaft contained
+14:00 The dating war
+16:00 Herodotus and the island tomb
+17:45 The claims that don't hold up
+19:30 So what is really unsettling?
+21:15 What still needs to be done
+22:30 What we know, what we guess, what is fiction
+
+WHAT THIS VIDEO COVERS
+Documented: the shaft exists, it was carved into the bedrock, it contains sarcophagi and burials, and its lowest level is flooded.
+Debated: the original construction date (Old Kingdom, Late Period, or reuse over centuries), and whether the water was part of the design or a later result of rising groundwater.
+Not supported by evidence: a hidden underground city, suppressed discoveries, an impossible age.
+
+MAIN SOURCES
+1. Hawass, Z. (2007). The Discovery of the Osiris Shaft at Giza.
+2. Hassan, S. Excavations at Giza (series, 1929-1960) and The Sphinx: Its History in the Light of Recent Excavations (1949).
+3. Archaeology Magazine archive, on the shaft beneath the Khafre causeway: https://archive.archaeology.org/0009/abstracts/crypt.html
+4. Graduate thesis (2021) on the Osiris Shaft, University of Montana ScholarWorks: https://scholarworks.umt.edu/etd/11693
+5. Herodotus, Histories, Book 2 (the burial chamber of Khufu on an island).
+6. Giza Project, Harvard University: https://giza.digitalhumanities.fas.harvard.edu
+7. Fact-check on tunnels and cavities near the Sphinx: https://factually.co/fact-checks/science/documented-tunnels-cavities-beneath-near-the-great-sphinx-egyptologists-interpretations-a2100c
+
+NOTE ON DIVERS
+No complete scientific report of a diving survey of the shaft was found while preparing this video. Much of what circulates online comes from TV programs and social media, and the video separates what was filmed from what was formally published.
+
+FOOTAGE & IMAGE CREDITS
+[Preencher com instituição, licença e link de cada imagem usada.]
+
+CORRECTIONS
+[Linha fixada ou atualizada aqui quando algum dado for revisado.]
+
+About this channel: when sources disagree, we say so, and we label what is measured, what is estimated and what is only a hypothesis.
+
+
+==================================================
 NOTAS DE PRODUÇÃO (NÃO NARRAR)
 ==================================================
 
@@ -211,5 +262,7 @@ FONTES ENCONTRADAS (secundárias, fracas)
 - Factually: https://factually.co/fact-checks/science/documented-tunnels-cavities-beneath-near-the-great-sphinx-egyptologists-interpretations-a2100c
 - Tese de 2021: https://scholarworks.umt.edu/etd/11693
 Conferir também Hawass (2007), Selim Hassan e o Giza Project (Harvard).
+
+DESCRIÇÃO: as fontes 1, 2 e 5 (Hawass 2007, Selim Hassan, Heródoto) vêm de memória e de menções nas buscas, sem eu ter lido as obras. Confira título, ano e volume antes de publicar. A fonte 7 (Factually) é um site de checagem secundário; troque por fonte acadêmica se achar. Não incluí o site de turismo (Egypt Tours Portal) na descrição pública. Preencha os créditos de imagens.
 
 SKILL: não há skill de roteiro de vídeo instalada na conta; o roteiro foi escrito diretamente, com base no framework-mariana-trench.md do repositório.
